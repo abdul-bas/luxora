@@ -41,10 +41,7 @@ class ProductModel {
     );
   }
 
-  // ---- Helpers used by the UI ----
-
-  /// Price after the discount is applied (what the customer pays).
-  /// [price] is treated as the original price.
+ 
   double get finalPrice => price * (1 - discountPercentage / 100);
 
   bool get hasDiscount => discountPercentage >= 1;

@@ -216,7 +216,7 @@ void dispose() {
                           ),
                           const SizedBox(height: 26),
 
-                          // ── Description ──
+                         
                           const Text(
                             'Description',
                             style: TextStyle(

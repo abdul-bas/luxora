@@ -1,4 +1,4 @@
-import 'package:luxora/models/category_model%20.dart';
+
 import 'package:luxora/models/product_model.dart';
 import 'package:luxora/views/auth/login_view.dart';
 import 'package:luxora/views/categories_view/categories_view.dart';
