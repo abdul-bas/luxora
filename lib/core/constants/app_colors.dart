@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+
+
 class AppColors {
   AppColors._();
 
@@ -8,8 +10,10 @@ class AppColors {
   static const ink = Color(0xFF141A3A);
   static const muted = Color(0xFF5D6488);
   static const line = Color(0xFFC9CFE8);
+  static const imageBg = Color(0xFFF1F2FA);
 
   static const accent = Color(0xFF3346E0);
+  static const accentSoft = Color(0x1F3346E0); 
   static const accentDisabled = Color(0xBF3346E0); 
   static const onAccent = Color(0xFFFFFFFF);
   static const onAccentSoft = Color(0xCCFFFFFF); 
@@ -18,5 +22,9 @@ class AppColors {
   static const errorSoft = Color(0x1FC62A3D); 
   static const success = Color(0xFF1A8A5A);
 
+  static const sale = Color(0xFFE0457B);
+  static const star = Color(0xFFF5A623);
+  static const inkFaint = Color(0x59141A3A); 
   static const shadow = Color(0x24141A3A);
+  static const shadowSoft = Color(0x14141A3A);
 }
