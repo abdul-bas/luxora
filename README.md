@@ -113,4 +113,4 @@ This project was a chance to practice the things I use most in Flutter: building
 Abdul Basith, Flutter developer
 
 - GitHub: [abdul-bas](https://github.com/abdul-bas)
-- LinkedIn: abdul-basith
+- LinkedIn: [abdul-basith](https://www.linkedin.com/in/abdul-basith-chempan-b17b09324/)
